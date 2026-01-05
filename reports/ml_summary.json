@@ -1,0 +1,10 @@
+{
+  "dataset_size": 445132,
+  "best_model": "XGBoost",
+  "accuracy": 0.802,
+  "recall_class_1": 0.72,
+  "precision_class_1": 0.09,
+  "top_feature": "Sigara Kullanımı",
+  "auc_score": 0.85,
+  "f1_score": 0.75
+}
